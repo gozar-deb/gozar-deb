@@ -1,16 +1,38 @@
-## Hi there 👋
+# 𓆩 GOZAR 𓆪
 
-<!--
-**gozar-deb/gozar-deb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About Me
 
-Here are some ideas to get you started:
+I'm Gozar — a Computer Engineering student exploring the intersection of technology, intelligence, and systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding how things work, breaking down complex ideas, and building things that challenge conventional thinking.
+
+### 🧠 Interests
+
+* Cybersecurity & Ethical Hacking
+* Artificial Intelligence & AI Agents
+* Linux & Open Source
+* Software Engineering
+* Systems Architecture
+* Automation & Emerging Technologies
+
+### ⚙️ Current Focus
+
+* Learning and experimenting with cybersecurity tools
+* Building AI-powered applications and agents
+* Exploring Linux environments and system internals
+* Developing practical engineering projects
+* Understanding the future of human-AI collaboration
+
+### 🛠️ Tech Stack
+
+`Python` `Bash` `Linux` `Git` `GitHub` `AI/LLMs` `Networking` `Web Security`
+
+### 🌌 Philosophy
+
+Question everything. Understand the system. Build beyond the limitations.
+
+### 🔗 Find Me
+
+**GitHub:** github.com/gozar-deb
+**X:** @Gozar_4
+
