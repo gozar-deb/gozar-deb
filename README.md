@@ -2,7 +2,7 @@
 
 ### 👋 About Me
 
-I'm Gozar — a Computer Engineering student exploring the intersection of technology, intelligence, and systems.
+I'm Gozar — a Computer Engineer exploring the intersection of technology, intelligence, and systems.
 
 I enjoy understanding how things work, breaking down complex ideas, and building things that challenge conventional thinking.
 
@@ -26,10 +26,6 @@ I enjoy understanding how things work, breaking down complex ideas, and building
 ### 🛠️ Tech Stack
 
 `Python` `Bash` `Linux` `Git` `GitHub` `AI/LLMs` `Networking` `Web Security`
-
-### 🌌 Philosophy
-
-Question everything. Understand the system. Build beyond the limitations.
 
 ### 🔗 Find Me
 
